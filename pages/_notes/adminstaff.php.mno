@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_department" value="name:dept_name;datatype:string" />
+	<infoitem key="UD_userlist" value="name:s_id;datatype:int,name:s_name;datatype:string,name:s_username;datatype:string,name:s_password;datatype:string,name:s_department;datatype:string,name:s_previlege;datatype:string,name:designation;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_alldepartment" value="name:d_id;datatype:int,name:dept_name;datatype:string,name:count(unit.dept);datatype:int" />
+	<infoitem key="UD_units" value="name:unit_name;datatype:string" />
+</info>
